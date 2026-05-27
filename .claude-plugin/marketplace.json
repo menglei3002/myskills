@@ -19,7 +19,8 @@
         "./plugins/myskills/skills/aimusic-pipeline",
         "./plugins/myskills/skills/ffmpeg-video-compose",
         "./plugins/myskills/skills/ace-music-gen",
-        "./plugins/myskills/skills/capcut-mate"
+        "./plugins/myskills/skills/capcut-mate",
+        "./plugins/myskills/skills/brainstorming"
       ]
     }
   ]
